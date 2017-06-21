@@ -1,0 +1,189 @@
+source,target,value
+Bobby Mahon,Pokey Burke,1
+Bobby Mahon,Jason,1
+Bobby Mahon,Mickey Briars,1
+Bobby Mahon,Jim Gildea,1
+Bobby Mahon,Bridie,1
+Bobby Mahon,Michael,1
+Pokey Burke,Bobby Mahon,1
+Pokey Burke,Timmy Hanrahan,1
+Pokey Burke,Seanie 'Shaper' Shanahan,1
+Pokey Burke,Mickey Briars,1
+Pokey Burke,Rory Slattery,1
+Pokey Burke,Vasya Afanasiev,1
+Pokey Burke,Josie Burke,1
+Pokey Burke,Eileen Burke,1
+Pokey Burke,Eamon Burke,1
+Pokey Burke,Mags Burke,1
+Pokey Burke,Dorothy,1
+Frank Mahon,Denis,1
+Frank Mahon,Jim Gildea,1
+Frank Mahon,Bridie,1
+Frank Mahon,Michael,1
+Denis,Frank Mahon,1
+Jason,Bobby Mahon,1
+Timmy Hanrahan,Pokey Burke,1
+Timmy Hanrahan,Seanie 'Shaper' Shanahan,1
+Timmy Hanrahan,Mickey Briars,1
+Timmy Hanrahan,Vasya Afanasiev,1
+Timmy Hanrahan,Lloyd,1
+Timmy Hanrahan,Realtin,1
+Timmy Hanrahan,Jim Gildea,1
+Timmy Hanrahan,Trevor,1
+Seanie 'Shaper' Shanahan,Pokey Burke,1
+Seanie 'Shaper' Shanahan,Timmy Hanrahan,1
+Seanie 'Shaper' Shanahan,Mickey Briars,1
+Seanie 'Shaper' Shanahan,Rory Slattery,1
+Seanie 'Shaper' Shanahan,Vasya Afanasiev,1
+Seanie 'Shaper' Shanahan,Dylan,1
+Seanie 'Shaper' Shanahan,Tom,1
+Seanie 'Shaper' Shanahan,Hillary,1
+Mickey Briars,Bobby Mahon,1
+Mickey Briars,Pokey Burke,1
+Mickey Briars,Timmy Hanrahan,1
+Mickey Briars,Seanie 'Shaper' Shanahan,1
+Mickey Briars,Rory Slattery,1
+Mickey Briars,Vasya Afanasiev,1
+Rory Slattery,Pokey Burke,1
+Rory Slattery,Seanie 'Shaper' Shanahan,1
+Rory Slattery,Mickey Briars,1
+Rory Slattery,Vasya Afanasiev,1
+Rory Slattery,Realtin,1
+Vasya Afanasiev,Pokey Burke,1
+Vasya Afanasiev,Timmy Hanrahan,1
+Vasya Afanasiev,Seanie 'Shaper' Shanahan,1
+Vasya Afanasiev,Mickey Briars,1
+Vasya Afanasiev,Rory Slattery,1
+Josie Burke,Pokey Burke,1
+Josie Burke,Eamon Burke,1
+Josie Burke,Lily,1
+Josie Burke,Dorothy,1
+Eileen Burke,Pokey Burke,1
+Eileen Burke,Eamon Burke,1
+Eileen Burke,Mags Burke,1
+Eileen Burke,Dorothy,1
+Eamon Burke,Pokey Burke,1
+Eamon Burke,Josie Burke,1
+Eamon Burke,Eileen Burke,1
+Eamon Burke,Mags Burke,1
+Eamon Burke,Dorothy,1
+Mags Burke,Pokey Burke,1
+Mags Burke,Eileen Burke,1
+Mags Burke,Eamon Burke,1
+Mags Burke,Dorothy,1
+Lily,Josie Burke,1
+Lily,Hughie,1
+Lily,Millicent,1
+Lily,Bernie McDermott,1
+Hughie,Lily,1
+Hughie,Millicent,1
+Millicent,Lily,1
+Millicent,Hughie,1
+Dorothy,Pokey Burke,1
+Dorothy,Josie Burke,1
+Dorothy,Eileen Burke,1
+Dorothy,Eamon Burke,1
+Dorothy,Mags Burke,1
+Dorothy,Trevor,1
+Lloyd,Timmy Hanrahan,1
+Lloyd,Dylan,1
+Lloyd,Jim Gildea,1
+Realtin,Timmy Hanrahan,1
+Realtin,Rory Slattery,1
+Realtin,George McSweeney,1
+Realtin,Bridget,1
+Dylan,Seanie 'Shaper' Shanahan,1
+Dylan,Lloyd,1
+Dylan,Jim Gildea,1
+Dylan,Trevor,1
+Dylan,Kate,1
+Tom,Seanie 'Shaper' Shanahan,1
+Tom,Bridget,1
+Bernie McDermott,Lily,1
+Jim Gildea,Bobby Mahon,1
+Jim Gildea,Frank Mahon,1
+Jim Gildea,Timmy Hanrahan,1
+Jim Gildea,Lloyd,1
+Jim Gildea,Dylan,1
+Jim Gildea,Bridie,1
+Jim Gildea,Peter,1
+Jim Gildea,Trevor,1
+Bridie,Bobby Mahon,1
+Bridie,Frank Mahon,1
+Bridie,Jim Gildea,1
+Bridie,Peter,1
+Bridie,Eugene,1
+Bridie,Michael,1
+Peter,Jim Gildea,1
+Peter,Bridie,1
+Peter,Eugene,1
+Peter,Michael,1
+Eugene,Bridie,1
+Eugene,Peter,1
+Eugene,Michael,1
+Michael,Bobby Mahon,1
+Michael,Frank Mahon,1
+Michael,Bridie,1
+Michael,Peter,1
+Michael,Eugene,1
+George McSweeney,Realtin,1
+George McSweeney,Hillary,1
+Hillary,Seanie 'Shaper' Shanahan,1
+Hillary,George McSweeney,1
+Brian,Paddy,1
+Brian,Lorna,1
+Paddy,Brian,1
+Lorna,Brian,1
+Trevor,Timmy Hanrahan,1
+Trevor,Dorothy,1
+Trevor,Dylan,1
+Trevor,Jim Gildea,1
+Trevor,Kate,1
+Kate,Dylan,1
+Kate,Trevor,1
+Bridget,Realtin,1
+Bridget,Tom,1
+Bobby Mahon,Triona Cahill,2
+Bobby Mahon,Frank Mahon,2
+Bobby Mahon,Rory Slattery,2
+Bobby Mahon,Vasya Afanasiev,2
+Bobby Mahon,Josie Burke,2
+Triona Cahill,Bobby Mahon,2
+Triona Cahill,Frank Mahon,2
+Frank Mahon,Bobby Mahon,2
+Frank Mahon,Triona Cahill,2
+Denis,Kate,2
+Timmy Hanrahan,Rory Slattery,2
+Seanie 'Shaper' Shanahan,Realtin,2
+Rory Slattery,Bobby Mahon,2
+Rory Slattery,Timmy Hanrahan,2
+Vasya Afanasiev,Bobby Mahon,2
+Josie Burke,Bobby Mahon,2
+Josie Burke,Eileen Burke,2
+Josie Burke,Mags Burke,2
+Eileen Burke,Josie Burke,2
+Mags Burke,Josie Burke,2
+Lily,John-John,2
+John-John,Lily,2
+Dorothy,Realtin,2
+Lloyd,Trevor,2
+Realtin,Seanie 'Shaper' Shanahan,2
+Realtin,Dorothy,2
+Realtin,Hillary,2
+Hillary,Realtin,2
+Trevor,Lloyd,2
+Kate,Denis,2
+Bobby Mahon,Timmy Hanrahan,3
+Bobby Mahon,Seanie 'Shaper' Shanahan,3
+Bobby Mahon,Realtin,3
+Bobby Mahon,Dylan,3
+Timmy Hanrahan,Bobby Mahon,3
+Seanie 'Shaper' Shanahan,Bobby Mahon,3
+Realtin,Bobby Mahon,3
+Realtin,Dylan,3
+Dylan,Bobby Mahon,3
+Dylan,Realtin,3
+Dylan,Tom,3
+Tom,Dylan,3
+Realtin,Tom,4
+Tom,Realtin,4

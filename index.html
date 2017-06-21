@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Visualising "The Spinning Heart"</title>
+<script type="text/javascript" src="js/d3.js"></script>
+<link href='css/bootstrap.min.css' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="spinningheart.js"></script>
+<style>
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+  font: 12px sans-serif;
+	font-color: red;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+</style>
+<body>
+
+<div class="jumbotron">
+	<div class="container">
+  	<h3>
+			Visualising character co-occurrence in <a href="http://www.lilliputpress.ie/book/144232506/donal_ryan-the_spinning_heart.html">
+			The Spinning Heart</a>
+		</h3>
+		<p>
+			Uses <a href="http://nickqizhu.github.io/dc.js/">D3</a> to create a force directed graph from 
+			character co-occurrence in <a href="http://www.lilliputpress.ie/book/144232506/donal_ryan-the_spinning_heart.html">
+			The Spinning Heart</a>. This graph does not suggest that the book can be understood or analysed in any meaningful 
+			way through character co-occurrence, rather the book was used simply as a dataset. No criticism or analysis or comment 
+			of any sort on the book should be imputed from this graph. In other words; it's just a bit of, erm, fun.
+		</p>	
+		<p>
+			With thanks to Mike Bostock's <a href="http://bost.ocks.org/mike/miserables/">analysis of Les Miserables</a> and, 
+			of course, to the author of <a href="http://www.lilliputpress.ie/book/144232506/donal_ryan-the_spinning_heart.html">
+			The Spinning Heart</a>, Donal Ryan.
+		</p>
+		<p>
+			<small>
+				TODO: display the character name, assuming this can be done in such as way that it balances the extra info
+				against unnecessary cluttering of the diagram.
+			</small>	
+		</p>	
+	</div>
+</div>
+</body> 
+</html>
