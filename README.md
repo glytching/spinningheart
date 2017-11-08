@@ -9,7 +9,7 @@ Uses [D3](http://nickqizhu.github.io/dc.js/) to create a force directed graph fr
 
 #### Eh, Really?
 
-Yes. Bear in mind that this graph does not suggest that the book can be understood or analysed in any meaningful way through character co-occurrence, rather the book was used simply as a dataset. No criticism or analysis or comment of any sort on the book should be imputed from this graph. In other words; it's just a bit of, erm, fun.	
+Yes though of course this graph does not suggest that the book can be understood or analysed in any meaningful way through character co-occurrence, rather the book was used simply as a dataset. No criticism or analysis or comment of any sort on the book should be imputed from this graph. In other words; it's just a bit of, erm, fun.	
 
 #### What Does It Look Like?
 
