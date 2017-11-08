@@ -13,4 +13,4 @@ Yes though of course this graph does not suggest that the book can be understood
 
 #### What Does It Look Like?
 
-<img src="docs/assets/images/display.png" alt="Homepage"/>
+<img src="display.png" alt="Homepage"/>
