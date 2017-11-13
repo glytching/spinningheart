@@ -12,17 +12,19 @@ d3.csv("data/spinningheart.csv", function(error, links) {
 	    link.value = +link.value;
 	});
 	
-	var width = 960,
-	    height = 400;
+	var width = 900,
+	    height = 600;
 
 	var color = d3.scale.category20();
 
 	var force = d3.layout.force()
-	    .charge(-175)
-	    .linkDistance(75)
+	    // negative value results in node repulsion
+	    .charge(-150)
+	    // sets the target distance between linked
+	    .linkDistance(275)
 	    .size([width, height]);
 
-	var svg = d3.select("body").append("svg")
+	var svg = d3.select("#graph").append("svg")
 	    .attr("width", width)
 	    .attr("height", height);
 				
@@ -50,14 +52,15 @@ d3.csv("data/spinningheart.csv", function(error, links) {
 	node.append("circle")
 		.attr("r", 5);
 	
-	// TODO: assign the character name to text rather than title, assuming
-	// this can be done in such as way that it balances the extra info
-	// against unecessary cluttering of the diagram											 
-	node.append("title")
-		.text(function(d) { return d.name; })
-    .attr("x", 12)
-    .attr("dy", ".35em");
-		
+	node.append("text")
+	.attr({
+	    "x": 12,
+	    "y": ".35em",
+	    "class":"nodelabel",
+        "stroke":"grey"
+        })
+		.text(function(d) { return d.name; });
+
 	force.on("tick", function() {
 		link.attr("x1", function(d) { return d.source.x; })
 			.attr("y1", function(d) { return d.source.y; })

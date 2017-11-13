@@ -15,6 +15,13 @@ Yes though of course this graph does not suggest that the book can be understood
 
 <img src="display.png" alt="Homepage"/>
 
+#### Browser Compatibility
+
+The web app has been tested and verified for the following browsers:
+
+* Safari 9.x
+* Firefox 51.0
+* Chrome 61.x (with 'same origin policy' disabled)
 
 License
 -------
