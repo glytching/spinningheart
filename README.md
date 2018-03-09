@@ -17,7 +17,7 @@ Yes though of course this graph does not suggest that the book can be understood
 
 #### Can I Use It?
 
-Sure, it is available [here](https://github.com/glytching/spinningheart.git).
+Sure, it is available [here](https://glytching.github.io/spinningheart/).
 
 #### Browser Compatibility
 
