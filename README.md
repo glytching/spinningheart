@@ -15,6 +15,10 @@ Yes though of course this graph does not suggest that the book can be understood
 
 <img src="display.png" alt="Homepage"/>
 
+#### Can I Use It?
+
+Sure, it is available [here](https://github.com/glytching/spinningheart.git).
+
 #### Browser Compatibility
 
 The web app has been tested and verified for the following browsers:
